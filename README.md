@@ -21,6 +21,12 @@ A profile manager for Claude Code configurations. Easily switch between differen
 
 ## Installation
 
+### Install from PyPI (recommended)
+
+```bash
+pip install claude-profile-switcher
+```
+
 ### Install from source
 
 ```bash
@@ -182,6 +188,12 @@ Claude Code 配置文件管理器。通过 TUI 或命令行轻松切换不同的
 - **模型覆盖**：支持自定义 haiku、sonnet、opus 模型
 
 ## 安装
+
+### 从 PyPI 安装（推荐）
+
+```bash
+pip install claude-profile-switcher
+```
 
 ### 从源码安装
 
